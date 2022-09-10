@@ -5,7 +5,7 @@
   "scripts": {
     "rollup": "rollup -c"
   },
-  "author": "Chris Shepherd",
+  "author": "Ziym",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.2",
